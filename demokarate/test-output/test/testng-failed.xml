@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [test]">
+  <test thread-count="5" name="test(failed)">
+    <classes>
+      <class name="demokarate.HttpURLConnectionExample">
+        <methods>
+          <include name="RegistrationSuccessful"/>
+        </methods>
+      </class> <!-- demokarate.HttpURLConnectionExample -->
+    </classes>
+  </test> <!-- test(failed) -->
+</suite> <!-- Failed suite [test] -->
