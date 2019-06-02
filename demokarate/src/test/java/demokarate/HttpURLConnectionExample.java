@@ -20,6 +20,7 @@ import org.testng.annotations.Test;
  {
 		private final String USER_AGENT = "Mozilla/5.0";
 
+		int a=10;
 		/*public static void main(String[] args) throws Exception {
 
 			HttpURLConnectionExample http = new HttpURLConnectionExample();
